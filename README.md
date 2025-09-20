@@ -1,4 +1,4 @@
-[![Live Demo]([https://img.shields.io/badge/demo-live-green)](https://cristalivia.github.io/enhance_spotify_prototype/playlist/my-playlist-1.html](https://cristalivia.github.io/spotify-enhancement-prototype/)
+[![Live Demo]([https://img.shields.io/badge/demo-live-green)](https://cristalivia.github.io/enhance_spotify_prototype/playlist/my-playlist-1.html)](https://cristalivia.github.io/spotify-enhancement-prototype/)
 > Public prototype for testing features: playback speed, background color customization, and view users who saved the playlist.
 
 A front-end user interface prototype of Spotify built using only HTML, CSS, and JavaScript. 
